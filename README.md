@@ -71,7 +71,6 @@
 	<div id="autre">
 		<h3>Autres</h3>
 		<p>Cette section contient les documents qui n'ont pas leur place ailleurs</p>
-		<a href="Autres/unsa.pdf">Réflexion personnelle sur le rôle des mathématiciens de demain, à l'heure de l'intelligence artificielle</a>
 	</div>
 	<footer class="Bas">
 		
